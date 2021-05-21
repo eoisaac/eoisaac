@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://eoisaac.github.io/](https://eoisaac.github.io/)
+- 👨‍💻 All of my projects are available at [https://eoisaac.github.io/](eoisaac.github.io/)
 
 - 📫 How to reach me **isaacsgpz1@gmail.com**
 
