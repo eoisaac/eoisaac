@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">Programming enthusiast and graduating Information Systems</h3>
+<h3 align="center">Future front-end developer</h3>
+
+- 🌱 📚 I’m currently undergraduate **Systems Information**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [eoisaac.github.io/](https://eoisaac.github.io/)
+- 👨‍💻 All of my projects are available at [eoisaac.github.io](https://eoisaac.github.io/)
 
 - 📫 How to reach me **isaacsgpz1@gmail.com**
 
