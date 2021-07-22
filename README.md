@@ -3,7 +3,7 @@
 
 - 📚 I’m currently undergraduate **Systems Information**
 
-- 👨‍💻 All of my projects are available at [eoisaac.github.io](eoisaac.github.io)
+- 👨‍💻 All of my projects are available at [eoisaac.github.io](https://eoisaac.github.io/)
 
 - 🌱 I’m currently learning **JavaScript**
 
