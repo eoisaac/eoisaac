@@ -28,6 +28,8 @@
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/></a>
 </div>
 
+<br>
+
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
 </div>
