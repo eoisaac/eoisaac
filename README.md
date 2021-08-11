@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I don't have a beard**
 
-<hr>
-
 <h3 align="left">Connect with me:</h3>
 
 <div align="left" style="display: inline_block">
@@ -20,8 +18,6 @@
 	<a href="https://linkedin.com/in/eoisaac" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eoisaac"/></a>
 	<a href="https://instagram.com/_eoisaac" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_eoisaac"/></a>
 </div>
-
-<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -31,8 +27,6 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a> 
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/></a>
 </div>
-
-<hr>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
