@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Isaac</h1>
 <h3 align="left">Future front-end developer</h3>
 
-- 📚 I’m currently undergraduate **Systems Information**
+- 📚 I’m currently undergraduate **Information Systems**
 
 - 👨‍💻 All of my projects are available at [eoisaac.github.io](https://eoisaac.github.io/)
 
