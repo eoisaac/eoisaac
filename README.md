@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [eoisaac.github.io](https://eoisaac.github.io/)
 
-- 🌱 I’m currently learning **JavaScript**, **HTML** and **CSS**
+- 🌱 I’m currently learning **JavaScript** and **MySQL**
 
 - 📫 How to reach me **isaacsgpz1@gmail.com**
 
