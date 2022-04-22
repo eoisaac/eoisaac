@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript** and **MySQL**
 
-- 📫 How to reach me **isaacsgpz1@gmail.com**
+- 📫 How to reach me **eoisaacc@gmail.com**
 
 - ⚡ Fun fact **I don't have a beard**
 
