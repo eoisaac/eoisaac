@@ -3,9 +3,9 @@
 
 - 📚 I’m currently undergraduate **Information Systems**
 
-- 👨‍💻 All of my projects are available at [eoisaac.github.io](https://eoisaac.github.io/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://eoisaac.github.io/)
 
-- 🌱 I’m currently learning **JavaScript** and **MySQL**
+- 🌱 I’m currently learning **JavaScript** and **ReactJS**
 
 - 📫 How to reach me **eoisaacc@gmail.com**
 
