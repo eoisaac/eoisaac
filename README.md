@@ -1,11 +1,14 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Isaac</h1>
-<h3 align="left">Future front-end developer</h3>
+
+<h3 align="left">Front-end developer</h3>
+
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
 - 📚 I’m currently undergraduate **Information Systems**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://eoisaac.github.io/)
 
-- 🌱 I’m currently learning **JavaScript** and **ReactJS**
+- 🌱 I’m currently learning **React** and **Typescript**
 
 - 📫 How to reach me **eoisaacc@gmail.com**
 
@@ -26,11 +29,12 @@
 	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/></a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge"/></a> 
 	<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=21A4F1" alt="vscode badge"/></a>
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/></a>
 	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop badge"/></a>
 </div>
 
 <br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" style="wid"/>
 </div>
