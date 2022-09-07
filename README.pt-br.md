@@ -1,16 +1,20 @@
+<table>
+	<tr>
+		<td width="92%" style="border: none; padding-left: 0;">
+			<h1 align="left">Oi 
+				<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+				, sou o Isaac
+			</h1>
+		</td>
+		<td style="border: none; padding-right: 0;">
+			<a href="https://github.com/eoisaac" >
+    		<img src="https://img.shields.io/badge/Lang-en-blue" alt="Traduzir para Inglês"/>
+  		</a>
+		</td>
+	</tr>
+</table>
 
-<div align="right">
-  <a href="https://github.com/eoisaac/eoisaac/blob/main/README.pt-br.md" >
-    <img src="https://img.shields.io/badge/Lang-en-blue" alt="Traduzir para Inglês"/>
-  </a>
-</div>
-
-<h1 align="left">Oi 
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-	, sou o Isaac
-</h1>
-
-<h3 align="left" style="display: inline">Desenvolvedor Frontend</h3>
+<h3 align="left">Desenvolvedor Frontend</h3>
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" />
 
