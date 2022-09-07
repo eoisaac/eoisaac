@@ -70,9 +70,9 @@
 </div>
 
 <br />
+
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&
-	show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
 </div>
 
 <div align="right">
