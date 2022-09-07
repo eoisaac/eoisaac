@@ -1,19 +1,7 @@
-<table>
-	<tr>
-		<td width="90%" style="border: none; padding-left: 0;">
-			<h1 align="left">Hi 
-				<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-				, I'm Isaac
-			</h1>
-		</td>
-		<td style="border: none; padding-right: 0;">
-			<a href="https://github.com/eoisaac/eoisaac/blob/main/README.pt-br.md" >
-				<img src="https://img.shields.io/badge/Lang-pt--BR-blue" alt="Translate 
-					to Portuguese"/>
-			</a>
-		</td>
-	</tr>
-</table>
+<h1 align="left">Hi 
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+	, I'm Isaac
+</h1>
 
 <h3 align="left">Frontend developer</h3>
 
@@ -81,7 +69,16 @@
 	</a>
 </div>
 
+<br />
 
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
 </div>
+
+<div align="right">
+	<a href="https://github.com/eoisaac/eoisaac/blob/main/README.pt-br.md" >
+		<img src="https://img.shields.io/badge/Lang-pt--BR-blue" alt="Translate 
+			to Portuguese"/>
+	</a>
+</div>
+

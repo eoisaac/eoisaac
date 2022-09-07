@@ -1,20 +1,9 @@
-<table>
-	<tr>
-		<td width="92%" style="border: none; padding-left: 0;">
-			<h1 align="left">Oi 
-				<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-				, sou o Isaac
-			</h1>
-		</td>
-		<td style="border: none; padding-right: 0;">
-			<a href="https://github.com/eoisaac" >
-    		<img src="https://img.shields.io/badge/Lang-en-blue" alt="Traduzir para Inglês"/>
-  		</a>
-		</td>
-	</tr>
-</table>
+<h1 align="left">Oi 
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+	, sou o Isaac
+</h1>
 
-<h3 align="left">Desenvolvedor Frontend</h3>
+<h3 align="left" >Desenvolvedor Frontend</h3>
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" />
 
@@ -42,7 +31,7 @@
 
 <h3 align="left">Entre em contato comigo:</h3>
 
-<div align="left" style="display: inline_block">
+<div align="left">
 	<a href="https://linkedin.com/in/eoisaac" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do meu LinkedIn"/>
 	</a>
@@ -56,7 +45,7 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
-<div align="left" style="display: inline_block"> 
+<div align="left"> 
 	<a href="https://www.w3.org/html/" target="_blank"> 
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
 	</a> 
@@ -80,7 +69,14 @@
 	</a>
 </div>
 
-
+<br />
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoisaac&
+	show_icons=true&theme=dark&locale=en&layout=compact" alt="eoisaac" />
+</div>
+
+<div align="right">
+	<a href="https://github.com/eoisaac">
+		<img src="https://img.shields.io/badge/Lang-en-blue" alt="Traduzir para Inglês"/>
+	</a>
 </div>
