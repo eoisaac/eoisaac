@@ -61,6 +61,9 @@
 	<a href="https://reactjs.org/" target="_blank">
 		<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DBFB" alt="react badge"/>
 	</a>
+	<a href="https://tailwindcss.com/" target="_blank"> 
+		<img src="https://img.shields.io/badge/Tailwind-2298BD?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="tailwindcss badge"/>
+	</a>
 	<a href="https://code.visualstudio.com/" target="_blank"> 
 		<img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=21A4F1" alt="vscode badge"/>
 	</a>
