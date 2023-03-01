@@ -13,7 +13,7 @@
 	</li>
 	<li>
 		👨‍💻 Todos os meus projetos estão disponiveis em 
-		<a href="https://eoisaac.github.io/">Meu Portfólio</a>
+		<a href="https://eoisaac.vercel.app/">Meu Portfólio</a>
 	</li>
 	<li>
 		🌱 Estou estudando <b>React</b> e <b>Typescript</b>
