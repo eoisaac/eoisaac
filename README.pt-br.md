@@ -33,13 +33,13 @@
 
 <div align="left">
 	<a href="https://linkedin.com/in/eoisaac" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do meu LinkedIn"/>
+		<img src="https://skillicons.dev/icons?i=linkedin" alt="Link do meu LinkedIn" width="40px" height="40px" />
 	</a>
 	<a href="https://twitter.com/eoisaacc" target="_blank">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Link do meu Twitter"/>
+		<img src="https://skillicons.dev/icons?i=twitter" alt="Link do meu Twitter" width="40px" height="40px" />
 	</a>
 	<a href="https://instagram.com/eoisaacc" target="_blank">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Link do meu Instagram"/>
+		<img src="https://skillicons.dev/icons?i=instagram" alt="Link do meu Instagram" width="40px" height="40px" />
 	</a>
 </div>
 
@@ -47,28 +47,28 @@
 
 <div align="left"> 
 	<a href="https://www.w3.org/html/" target="_blank"> 
-		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge"/>
+		<img src="https://skillicons.dev/icons?i=html" alt="html5 badge" width="40px" height="40px" />
 	</a> 
 	<a href="https://www.w3schools.com/css/" target="_blank"> 
-		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge"/>
+		<img src="https://skillicons.dev/icons?i=css" alt="css3 badge" width="40px" height="40px" />
 	</a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge"/>
+		<img src="https://skillicons.dev/icons?i=javascript" alt="javascript badge" width="40px" height="40px" />
 	</a> 
 	<a href="https://www.typescriptlang.org/" target="_blank"> 
-		<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge"/>
+		<img src="https://skillicons.dev/icons?i=typescript" alt="typescript badge" width="40px" height="40px" />
 	</a>
 	<a href="https://reactjs.org/" target="_blank">
-		<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DBFB" alt="react badge"/>
+		<img src="https://skillicons.dev/icons?i=react" alt="react badge"/>
 	</a>
 	<a href="https://tailwindcss.com/" target="_blank"> 
-		<img src="https://img.shields.io/badge/Tailwind-2298BD?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="tailwindcss badge"/>
+		<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss badge" width="40px" height="40px" />
 	</a>
 	<a href="https://code.visualstudio.com/" target="_blank"> 
-		<img src="https://img.shields.io/badge/VSCode-333333?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=21A4F1" alt="vscode badge"/>
+		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode badge" width="40px" height="40px" />
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white" alt="git badge"/>
+		<img src="https://skillicons.dev/icons?i=git" alt="git badge" width="40px" height="40px" />
 	</a>
 </div>
 
