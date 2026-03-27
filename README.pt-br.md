@@ -1,22 +1,17 @@
-<h1 align="left">Oi 
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
-	, sou o Isaac
-</h1>
+<h1 align="left" style="font-size: 1.8rem;">Oi, sou o Isaac</h1>
 
-<h3 align="left" >Desenvolvedor Frontend</h3>
+<h3 align="left" style="font-size: 1.4rem;">Desenvolvedor Fullstack</h3>
+<sub>I build stuff</sub>
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="380px" />
 
 <ul style="list-style: none">
 	<li>
-		📚 Atualmente estou graduando <b>Sistemas de Informação</b>
+		📚 Bacharel em <b>Sistemas de Informação</b>
 	</li>
 	<li>
-		👨‍💻 Todos os meus projetos estão disponiveis em 
-		<a href="https://eoisaac.vercel.app/">Meu Portfólio</a>
-	</li>
-	<li>
-		🌱 Estou estudando <b>React</b> e <b>Typescript</b>
+		👨‍💻 Todos os meus projetos estão disponíveis no
+		<a href="https://eoisaac.vercel.app/">meu portfólio</a>
 	</li>
 	<li>
 		📫 Entre em contato 
@@ -24,51 +19,42 @@
 			<a href="mailto:eoisaacc@gmail.com">eoisaacc@gmail.com</a>
 		</b>
 	</li>
-	<li>
-		⚡ Fun fact <b>eu não tenho barba</b>
-	</li>
 </ul>
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left" style="font-size: 1.4rem;">Entre em contato comigo:</h3>
 
-<div align="left">
+<div align="left" style="display: inline_block">
 	<a href="https://linkedin.com/in/eoisaac" target="_blank">
-		<img src="https://skillicons.dev/icons?i=linkedin" alt="Link do meu LinkedIn" width="30px" height="30px" />
+		<img alt="Linkedin" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"/>
 	</a>
-	<a href="https://twitter.com/eoisaacc" target="_blank">
-		<img src="https://skillicons.dev/icons?i=twitter" alt="Link do meu Twitter" width="30px" height="30px" />
+	<a href="https://x.com/eoisaacc" target="_blank">
+		<img alt="Twitter" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Twitter.svg"/>
 	</a>
 	<a href="https://instagram.com/eoisaacc" target="_blank">
-		<img src="https://skillicons.dev/icons?i=instagram" alt="Link do meu Instagram" width="30px" height="30px" />
+		<img alt="Instagram" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"/>
 	</a>
 </div>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="left" style="font-size: 1.4rem;">Linguagens e ferramentas:</h3>
 
-<div align="left"> 
-	<a href="https://www.w3.org/html/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=html" alt="html5 badge" width="30px" height="30px" />
-	</a> 
-	<a href="https://www.w3schools.com/css/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=css" alt="css3 badge" width="30px" height="30px" />
-	</a> 
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=javascript" alt="javascript badge" width="30px" height="30px" />
-	</a> 
-	<a href="https://www.typescriptlang.org/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=typescript" alt="typescript badge" width="30px" height="30px" />
+<div align="left" style="display: inline_block"> 
+	<a href="https://www.typescriptlang.org/" target="_blank">
+		<img alt="Typescript" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"/>
 	</a>
 	<a href="https://reactjs.org/" target="_blank">
-		<img src="https://skillicons.dev/icons?i=react" alt="react badge"/>
+		<img alt="React" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"/>
 	</a>
-	<a href="https://tailwindcss.com/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss badge" width="30px" height="30px" />
+	<a href="https://nextjs.org/" target="_blank">
+		<img alt="NextJS" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg"/>
 	</a>
-	<a href="https://code.visualstudio.com/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode badge" width="30px" height="30px" />
+	<a href="https://expo.dev/" target="_blank">
+		<img alt="Expo" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg"/>
 	</a>
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://skillicons.dev/icons?i=git" alt="git badge" width="30px" height="30px" />
+  <a href="https://nestjs.com/" target="_blank"> 
+		<img alt="Nest" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Nest.svg"/>
+	</a>
+  <a href="https://supabase.com/" target="_blank"> 
+		<img alt="Supabase" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg"/>
 	</a>
 </div>
 
