@@ -25,13 +25,13 @@
 
 <div align="left" style="display: inline_block">
 	<a href="https://linkedin.com/in/eoisaac" target="_blank">
-		<img alt="Linkedin" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"/>
+		<img alt="Linkedin" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"/>
 	</a>
 	<a href="https://x.com/eoisaacc" target="_blank">
-		<img alt="Twitter" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Twitter.svg"/>
+		<img alt="Twitter" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Twitter.svg"/>
 	</a>
 	<a href="https://instagram.com/eoisaacc" target="_blank">
-		<img alt="Instagram" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"/>
+		<img alt="Instagram" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"/>
 	</a>
 </div>
 
@@ -39,22 +39,22 @@
 
 <div align="left" style="display: inline_block"> 
 	<a href="https://www.typescriptlang.org/" target="_blank">
-		<img alt="Typescript" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"/>
+		<img alt="Typescript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg"/>
 	</a>
 	<a href="https://reactjs.org/" target="_blank">
-		<img alt="React" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"/>
+		<img alt="React" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg"/>
 	</a>
 	<a href="https://nextjs.org/" target="_blank">
-		<img alt="NextJS" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg"/>
+		<img alt="NextJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg"/>
 	</a>
 	<a href="https://expo.dev/" target="_blank">
-		<img alt="Expo" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg"/>
+		<img alt="Expo" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Expo.svg"/>
 	</a>
   <a href="https://nestjs.com/" target="_blank"> 
-		<img alt="Nest" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Nest.svg"/>
+		<img alt="NestJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg"/>
 	</a>
   <a href="https://supabase.com/" target="_blank"> 
-		<img alt="Supabase" height="30" width="30" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg"/>
+		<img alt="Supabase" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Supabase.svg"/>
 	</a>
 </div>
 
