@@ -34,17 +34,17 @@
 <div align="left" style="display: inline_block">
 	<a href="https://linkedin.com/in/eoisaac" target="_blank">
 		<img src="https://skillicons.dev/icons?i=linkedin" alt="My LinkedIn Link"
-			width="40px" height="40px"
+			width="30px" height="30px"
 		/>
 	</a>
 	<a href="https://twitter.com/eoisaacc" target="_blank">
 		<img src="https://skillicons.dev/icons?i=twitter" alt="My Twitter Link"
-		width="40px" height="40px"
+		width="30px" height="30px"
 		/>
 	</a>
 	<a href="https://instagram.com/eoisaacc" target="_blank">
 		<img src="https://skillicons.dev/icons?i=instagram" alt="My Instagram Link"
-		width="40px" height="40px"
+		width="30px" height="30px"
 		/>
 	</a>
 </div>
@@ -53,28 +53,28 @@
 
 <div align="left" style="display: inline_block"> 
 	<a href="https://www.w3.org/html/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=html" alt="html5 badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=html" alt="html5 badge" width="30px" height="30px" />
 	</a> 
 	<a href="https://www.w3schools.com/css/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=css" alt="css3 badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=css" alt="css3 badge" width="30px" height="30px" />
 	</a> 
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=javascript" alt="javascript badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=javascript" alt="javascript badge" width="30px" height="30px" />
 	</a> 
 	<a href="https://www.typescriptlang.org/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=typescript" alt="typescript badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=typescript" alt="typescript badge" width="30px" height="30px" />
 	</a>
 	<a href="https://reactjs.org/" target="_blank">
-		<img src="https://skillicons.dev/icons?i=react" alt="react badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=react" alt="react badge" width="30px" height="30px" />
 	</a>
     <a href="https://tailwindcss.com/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss badge" width="30px" height="30px" />
 	</a>
 	<a href="https://code.visualstudio.com/" target="_blank"> 
-		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=vscode" alt="vscode badge" width="30px" height="30px" />
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://skillicons.dev/icons?i=git" alt="git badge" width="40px" height="40px" />
+		<img src="https://skillicons.dev/icons?i=git" alt="git badge" width="30px" height="30px" />
 	</a>
 </div>
 
